@@ -1,6 +1,6 @@
 {
     "token": "",
-    "language": "de",
+    "language": "en",
     "prefix": "!",
     "mongodbUri": "mongodb+srv://niklas:W2EjIhEI0sXp4wgd@bot.7mq7k.mongodb.net/?retryWrites=true&w=majority&appName=Bot",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
